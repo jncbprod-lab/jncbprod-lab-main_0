@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.product.Product1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.627 s -- in com.product.Product1ApplicationTests
